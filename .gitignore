@@ -1,0 +1,6 @@
+venv310/
+venv310/
+venv311/
+venv*/
+app/__pycache__/
+app/best.pt
